@@ -1,0 +1,114 @@
+.navbar-main{
+	background-color:#f5f5f5;
+
+}
+
+#plan{
+	text-align:
+
+}
+
+/*SERVICE CSS*/
+.caption1 > h1 {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.caption2 > h1 {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.caption3 > h1 {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.caption4 h1 {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.moving-object {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.text-center > h3 {
+	padding-top: 22px;
+}
+
+
+/*footer css*/
+
+.color-footer {
+	background-color: #1e1e69;
+}
+
+.header-text1 > h3 {
+	color: #d25f0b;
+	text-align: center;
+	font-size: 18px;
+}
+
+.header-text1 > h4 {
+	color: yellow;
+	text-align: center;
+	font-size: 16px;
+}
+
+
+}.header-text1 > p {
+	color: white;
+	text-align: center;
+	font-size: 12px
+}
+
+.Kenya{
+	color: white;
+}
+
+
+.header-text2 > h3 {
+	color: #d25f0b;
+	text-align: center;
+	font-size: 18px;
+}
+
+.header-text2 > h4 {
+	color: yellow;
+	text-align: center;
+	font-size: 16px;
+}
+
+.header-text2 > p {
+	color: white;
+	text-align: center;
+	font-size: 12px
+}
+
+.header-text3 > h3 {
+	color: #d25f0b;
+	text-align: center;
+	font-size: 18px;
+}
+
+.header-text3 > h4 {
+	color: yellow;
+	text-align: center;
+	font-size: 16px
+}
+
+.header-text3 > p {
+	color: white;
+	text-align: center;
+	font-size: 12px
+}
+
+.color-footer {
+	margin-top: 100px;
+}
+
+.padding{
+	padding-bottom: 50px;
+}
